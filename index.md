@@ -17,18 +17,6 @@ We believe that the college board website is too bland and uninteractive so we w
 * API that allows the user to compare responses to MCQs and past projects
 * (POSSIBLE TECHNICAL) A development environment where students can type in and test code
 
-
-# Contributers Table
-| Name | Github Profile | Issues | Commit History | Pair Share | Role |
-| - | - | - | - | - | - |
-| Daniel Levy | @danaylevy2004 | [Issues](https://github.com/danaylevy2004/thesuperidolenthusiasts/issues?q=is%3Aissue+is%3Aopen+label%3ADaniel) | [Commit History](https://github.com/danaylevy2004/thesuperidolenthusiasts/commits?author=danaylevy2004) | [Triple Share](https://docs.google.com/document/d/1vTDoN6EwwSgW9PMBTnSQZSWHLS3bLMHj9KLXnAamV6o/edit#) | Scrum Master |
-| Derek Bokelman | @derekbokelman |  [Issues](https://github.com/danaylevy2004/thesuperidolenthusiasts/issues?q=is%3Aissue+is%3Aopen+label%3ADerek) | [Commit History](https://github.com/danaylevy2004/thesuperidolenthusiasts/commits?author=derekbokelman) |[Triple Share](https://docs.google.com/document/d/1vTDoN6EwwSgW9PMBTnSQZSWHLS3bLMHj9KLXnAamV6o/edit#) | Github Admin
-| Tigran Arakelov | @Tigran7 | [Issues](https://github.com/danaylevy2004/thesuperidolenthusiasts/issues?q=is%3Aissue+is%3Aopen+label%3ATigran) | [Commit History](https://github.com/danaylevy2004/thesuperidolenthusiasts/commits?author=Tigran7) | [Triple Share](https://docs.google.com/document/d/1vTDoN6EwwSgW9PMBTnSQZSWHLS3bLMHj9KLXnAamV6o/edit#) | Deployment Manager |
-| Matthew Cao-Manaka | @Pqhantom | [Issues]() | [Commit History](https://github.com/danaylevy2004/thesuperidolenthusiasts/commits?author=Pqhantom) | [Pair Share](https://docs.google.com/document/d/1b9SzFx7g9hf_kJIfIe7iW0cuRWeknSvzfgSPGQGoQYA/edit?usp=sharing) | Primary Designer |
-| Chris Hom | @Chom642 | [Issues](https://github.com/danaylevy2004/thesuperidolenthusiasts/issues?q=is%3Aissue+is%3Aopen+label%3AChris) | [Commit History](https://github.com/danaylevy2004/thesuperidolenthusiasts/commits?author=Chom642) | [Pair Share](https://docs.google.com/document/d/1b9SzFx7g9hf_kJIfIe7iW0cuRWeknSvzfgSPGQGoQYA/edit?usp=sharing) | Technical Officer |
-| | | [Group Issues](https://github.com/danaylevy2004/thesuperidolenthusiasts/issues?q=is%3Aissue+is%3Aopen+label%3AGroup) | |
-
-
 # Timeboxes
 ## Week 3
 1. [Youtube Video](https://www.youtube.com/watch?v=8sx4Tg1hjc4)
